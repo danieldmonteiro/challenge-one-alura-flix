@@ -21,7 +21,7 @@ Faziam parte do desafio o uso de uma falsa API e a criação das funções adici
 
 ### **2. Como usar**
 
-Para acessar, clique <a href="" target="_blank">aqui</a>.
+Para acessar, clique <a href="https://challenge-one-alura-flix-ashy.vercel.app/" target="_blank">aqui</a>.
 
 #
 
